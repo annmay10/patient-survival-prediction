@@ -1,7 +1,7 @@
-*\ Final project STAT448 Spr 23 *\;
+
 *\ Data set was obtained from the UCI Machine Learning Repository:
 
-	https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records;
+*\https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records;
 
 data heartf;
 	infile '/home/u63105230/final/heart_failure_clinical_records_dataset.csv' dsd 
